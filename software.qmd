@@ -1,0 +1,18 @@
+---
+title: "Software"
+---
+
+The software below is published by [Analytic Technologies](http://www.analytictech.com/). Downloads, documentation and licensing are on the UCINET site.
+
+[UCINET site](https://sites.google.com/site/ucinetsoftware/){.btn .btn-primary}
+
+| Program | What it does |
+|---|---|
+| **UCINET** | Comprehensive package for social network analysis (with M.G. Everett and L.C. Freeman) |
+| **NetDraw** | Network visualization |
+| **E-NET** | Analysis of egocentric (personal) network data |
+| **KeyPlayer** | Identifying sets of key players in a network |
+| **ANTHROPAC** | Cultural domain analysis: free lists, pile sorts, triads, consensus |
+| **[borgworld](https://github.com/StephenBorgatti/borgworld)** | R package of statistics helpers with nicer output, supporting a research methods course |
+
+**How to cite UCINET:** Borgatti, S.P., Everett, M.G. and Freeman, L.C. 2002. *Ucinet for Windows: Software for Social Network Analysis.* Harvard, MA: Analytic Technologies.

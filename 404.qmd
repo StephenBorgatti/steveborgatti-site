@@ -1,0 +1,9 @@
+---
+title: "Page not found"
+---
+
+This site was rebuilt in 2026, so an old link may point to a page that has moved.
+
+- Looking for a paper? Try [Publications](/publications.html).
+- Looking for UCINET? See [Software](/software.html).
+- Or go to the [home page](/index.html).

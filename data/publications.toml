@@ -1,0 +1,1028 @@
+# Publications for steveborgatti.com — this file is the single source of truth.
+# Each [[pub]] block is one entry. Fields:
+#   type     = article | book | chapter | edited | other
+#   year     = "2024" (or "forthcoming", "submitted")
+#   citation = full citation as it should appear (Borgatti is bolded automatically)
+#   pdf      = file name inside papers/  (optional)
+#   doi      = 10.xxxx/yyyy  (optional; pulled from the citation when present)
+#   url      = any other link (optional)
+#   hidden   = true to keep an entry out of the page (optional)
+# Run `python tools/build_publications.py` (Quarto does it automatically on render).
+
+[[pub]]
+type = "book"
+year = "forthcoming"
+citation = "Borgatti, SP, Everett, MG, Johnson, JC., Agneessens, F. (under contract; expected 2027). Analyzing Social Networks using R. 2nd Edition. Sage Publications, UK."
+
+[[pub]]
+type = "book"
+year = "2024"
+citation = "Borgatti, SP, Everett, MG, Johnson, JC., Agneessens, F. (2024). Analyzing Social Networks. 3rd Edition. Sage Publications, UK"
+
+[[pub]]
+type = "book"
+year = "2022"
+citation = "Borgatti, SP, Everett, MG, Johnson, JC., Agneessens, F. (2022). Analyzing Social Networks using R. Sage Publications, UK"
+
+[[pub]]
+type = "book"
+year = "2018"
+citation = "Perry, BL, Pescosolido, BA, Borgatti, SP. (2018). Egocentric Network Analysis: Foundations, Methods, and Models. Cambridge University Press, UK"
+
+[[pub]]
+type = "book"
+year = "2018"
+citation = "Borgatti, SP, Everett, MG & Johnson, JC. (2018). Analyzing Social Networks. 2nd Edition. Sage Publications, UK"
+
+[[pub]]
+type = "book"
+year = "2013"
+citation = "Borgatti, SP, Everett, MG & Johnson, JC. (2013). Analyzing Social Networks. Sage Publications, UK"
+
+[[pub]]
+type = "article"
+year = "submitted"
+citation = "Borgatti, SP, Halgin, DS, Bertoni, VB. (submitted). The EESOP Fables: Endogeneity, Self-Organization, and the Reification of Networks. Social Networks."
+
+[[pub]]
+type = "article"
+year = "forthcoming"
+citation = "Everett, MG & Borgatti, SP (forthcoming). Eigenvector Centrality in Disconnected Networks. Social Networks."
+
+[[pub]]
+type = "article"
+year = "2026"
+citation = "Borgatti, SP, & Everett, MG. (2026) Beyond Constraint: Measuring Brokerage Opportunity and Exclusivity. Strategy Science. Advance online publication. https://doi.org/10.1287/stsc.2026.0799"
+doi = "10.1287/stsc.2026.0799"
+
+[[pub]]
+type = "article"
+year = "2026"
+citation = "Everett, M. G., & Borgatti, S. P. (2026). Alter composition with overlapping group memberships. Social Networks, 85, 80-88."
+
+[[pub]]
+type = "article"
+year = "2026"
+citation = "Ling, J., Brands, R., Brass, D. J., Liu, D., Borgatti, S. P., & Mehra, A. (2026). Gender, structural holes, and citations: The effects of women’s increasing proportional representation in a field. Group & Organization Management, 51(4), 2042-2077."
+
+[[pub]]
+type = "article"
+year = "2026"
+citation = "Soltis, S. M., Sterling, C., Ferrier, W. J., & Borgatti, S. (2026). College football recruiting: the role of relational rivalry in factor-market competition. Group & Organization Management, 51(3), 1436-1470."
+pdf = "2026-soltis-college-football-recruiting-the-role-of-relational.pdf"
+
+[[pub]]
+type = "article"
+year = "2025"
+citation = "Kane, G. C., Alavi, M., Labianca, G., & Borgatti, S. P. (2025). Guest Editorial: The Evolution of Social Media Networks: Revisiting and Extending 10 Years Later. MIS Quarterly, 49(4), ix-xvi."
+pdf = "2025-kane-guest-editorial-the-evolution-of-social-media.pdf"
+
+[[pub]]
+type = "article"
+year = "2024"
+citation = "Palombi, G., Nonino, F., & Borgatti, S. P. (2024). The effect of social network structure on group anchoring bias. Journal of Organization Design, 13(2), 33-44."
+
+[[pub]]
+type = "article"
+year = "2022"
+citation = "Chen, H., Mehra, A., Tasselli, S., & Borgatti, S. P. (2022). Network dynamics and organizations: A review and research agenda. Journal of Management, 48(6), 1602-1660."
+pdf = "2022-chen-network-dynamics-and-organizations-a-review-and.pdf"
+
+[[pub]]
+type = "article"
+year = "2021"
+citation = "Molina, Jose-Luis, Borgatti, S.P. (2021). Moral Bureaucracies and Social Network Research. Social Networks. Volume 67, October 2021, Pages 13-19."
+pdf = "2021-molina-moral-bureaucracies-and-social-network-research.pdf"
+
+[[pub]]
+type = "article"
+year = "2020"
+citation = "Everett, M.G. and Borgatti, S.P., 2020. Unpacking Burt’s constraint measure. Social Networks, 62, pp. 50-57."
+pdf = "2020-everett-unpacking-burts-constraint-measure.pdf"
+
+[[pub]]
+type = "article"
+year = "2020"
+citation = "Ofem, B., Arya, B., Ferrier, W. J., & Borgatti, S. P. (2020). Entrepreneurial orientation, collaborative engagement, and performance: Evidence from rural economic development organizations. Economic Development Quarterly, 34(3), 269-282."
+pdf = "2020-ofem-entrepreneurial-orientation-collaborative-engagement-and-performance-evidence.pdf"
+
+[[pub]]
+type = "article"
+year = "2020"
+citation = "Halgin, D.S., Borgatti, S.P., Mehra, A. and Soltis, S., 2020. Audience perceptions of high‐status ties and network advantage: The market for coaching jobs in the National Collegiate Athletic Association (2000–2011). Journal of Organizational Behavior, 41(4), pp.332-347."
+pdf = "2020-halgin-audience-perceptions-of-highstatus-ties-and-network.pdf"
+
+[[pub]]
+type = "article"
+year = "2020"
+citation = "Halgin, D.S., Borgatti, S.P. and Huang, Z., 2020. Prismatic effects of negative ties. Social Networks, 60, pp.26-33."
+pdf = "2020-halgin-prismatic-effects-of-negative-ties.pdf"
+
+[[pub]]
+type = "article"
+year = "2019"
+citation = "Grosser, T.J., Obstfeld, D., Labianca, G. and Borgatti, S.P., 2019. Measuring mediation and separation brokerage orientations: A further step toward studying the social network brokerage process. Academy of Management Discoveries, 5(2), pp.114-136."
+pdf = "2019-grosser-measuring-mediation-and-separation-brokerage-orientations-a.pdf"
+
+[[pub]]
+type = "article"
+year = "2018"
+citation = "Borgatti, SP and Quintane, E. 2018. \"Techniques: dichotomizing a network.\" Connections. 38(1):1-11. Doi: 10.21307/connections-2018-002"
+doi = "10.21307/connections-2018-002"
+
+[[pub]]
+type = "article"
+year = "2018"
+citation = "Weller, S., Vickers, B., Bernard, HR., Blackburn, A., Borgatti, S., Gravlee, C., Johnson, JC. (2018). \"Open-ended interview questions and saturation\". PLOS ONE 13(6): e0198606. https://doi.org/10.1371/journal.pone.0198606."
+doi = "10.1371/journal.pone.0198606"
+pdf = "2018-weller-open-ended-interview-questions-and-saturation.pdf"
+
+[[pub]]
+type = "article"
+year = "2018"
+citation = "Ofem, B., Arya, B. and Borgatti, S.P., (2018). The Drivers of Collaborative Success between Rural Economic Development Organizations. Nonprofit and Voluntary Sector Quarterly 47(6): 1113-1134"
+pdf = "2018-ofem-the-drivers-of-collaborative-success-between-rural.pdf"
+
+[[pub]]
+type = "article"
+year = "2018"
+citation = "Everett, M. G., Broccatelli, C., Borgatti, S., Koskinen, J. (2018). Measuring Knowledge and Experience in Two Mode Temporal Networks. Social Networks. 55: 63-73"
+pdf = "2018-everett-measuring-knowledge-and-experience-in-two-mode.pdf"
+
+[[pub]]
+type = "article"
+year = "2018"
+citation = "Marineau, J.E., Labianca, G.J., Brass, D.J., Borgatti, S.P. and Vecchi, P., 2018. Individuals’ power and their social network accuracy: A situated cognition perspective. Social Networks, 54, pp.145-161."
+pdf = "2018-marineau-individuals-power-and-their-social-network-accuracy.pdf"
+
+[[pub]]
+type = "article"
+year = "2018"
+citation = "Grosser, T. J., Obstfeld, D., Choi, E. W., Woehler, M., Lopez-Kidwell, V., Labianca, G., & Borgatti, S. P. (2018). A sociopolitical perspective on employee innovativeness and job performance: The role of political skill and network structure. Organization Science, 29(4), 612-632."
+pdf = "2018-grosser-a-sociopolitical-perspective-on-employee-innovativeness-and.pdf"
+
+[[pub]]
+type = "article"
+year = "2017"
+citation = "Agneessens, F., Borgatti, SP, Everett, MG. (2017). Geodesic based centrality: Unifying the local and the global. Social Networks 49:12-26."
+pdf = "2017-agneessens-geodesic-based-centrality-unifying-the-local-and.pdf"
+
+[[pub]]
+type = "article"
+year = "2016"
+citation = "Brandes, U., Borgatti, S., Freeman, L. (2016) Maintaining the Duality of Closeness and Betweenness Centrality. Social Networks 44:153-159."
+pdf = "2016-brandes-maintaining-the-duality-of-closeness-and-betweenness.pdf"
+
+[[pub]]
+type = "article"
+year = "2016"
+citation = "Parker, A., Halgin, DS, Borgatti, SP (2016). Dynamics of Social Capital: Effects of Performance Feedback on Network Change. Organization Studies. 37(3), pp.375-397."
+pdf = "2016-parker-dynamics-of-social-capital-effects-of-performance.pdf"
+
+[[pub]]
+type = "article"
+year = "2015"
+citation = "Halgin, D.S., Gopalakrishnan, M.G., & Borgatti, S.P. (2015). Structure and agency in networked, distributed work: The role of work engagement. American Behavioral Scientist 59(4):457-474."
+pdf = "2015-halgin-structure-and-agency-in-networked-distributed-work.pdf"
+
+[[pub]]
+type = "article"
+year = "2015"
+citation = "Borgatti, SP (2015). Review of FLAME software. Field Methods. Volume: 27 issue: 2, page(s): 199-205"
+pdf = "2015-borgatti-review-of-flame-software.pdf"
+
+[[pub]]
+type = "article"
+year = "2015"
+citation = "S Compion, B Ofem, W Ferrier, S Borgatti, P Cook-Craig, J Jensen, S Nah (2015). The Collaboration Networks of Economic Development Organizations in Eastern Kentucky. Journal of Appalachian Studies 21 (1), 105-127"
+pdf = "2015-compion-the-collaboration-networks-of-economic-development-organizations.pdf"
+
+[[pub]]
+type = "article"
+year = "2014"
+citation = "Everett, MG and Borgatti, SP (2014). Networks Containing Negative Ties. Social Networks. 38:111–120."
+pdf = "2014-everett-networks-containing-negative-ties.pdf"
+
+[[pub]]
+type = "article"
+year = "2014"
+citation = "Dhand, A., Harp, J. and Borgatti, S.P., 2014. Leadership in neurology: A social network analysis. Annals of Neurology, 75(3), pp.342-350."
+pdf = "2014-dhand-leadership-in-neurology-a-social-network-analysis.pdf"
+
+[[pub]]
+type = "article"
+year = "2014"
+citation = "Smith, J, Halgin, D, Kidwell, V, Labianca, G, Brass, D, Borgatti, SP. 2014. Power in politically charged networks. Social Networks 36:162– 176"
+pdf = "2014-smith-power-in-politically-charged-networks.pdf"
+
+[[pub]]
+type = "article"
+year = "2013"
+citation = "Lopez-Kidwell, V., Grosser, T., Dineen, B., & Borgatti, S. (2013). What matters when: A multi-stage examination of factors contributing to job search effort. Academy of Management Journal. 56(6):1655-1678."
+pdf = "2013-lopez-what-matters-when-a-multi-stage-examination.pdf"
+
+[[pub]]
+type = "article"
+year = "2013"
+citation = "Rushmore, Julie; Caillaud, Damien; Matamba, Leopold; Stumpf, Rebecca; Borgatti, Steve; Altizer, Sonia. (2013). “Social network analysis of wild chimpanzees provides insights for predicting infectious disease risk.” Journal of Animal Ecology 82(5): 976–986."
+pdf = "2013-rushmore-social-network-analysis-of-wild-chimpanzees-provides.pdf"
+
+[[pub]]
+type = "article"
+year = "2013"
+citation = "Everett, M. G., & Borgatti, S. P. (2013). The dual-projection approach for two-mode networks. Social networks, 35(2), 204-210."
+pdf = "2013-everett-the-dual-projection-approach-for-two-mode.pdf"
+
+[[pub]]
+type = "article"
+year = "2012"
+citation = "Halgin, D.S., & Borgatti, S.P. 2012. An Introduction to Personal Network Analysis and Tie Churn Statistics using E-NET. Connections 32(1): 37-48."
+pdf = "2012-halgin-an-introduction-to-personal-network-analysis-and.pdf"
+
+[[pub]]
+type = "article"
+year = "2012"
+citation = "Reprinted and Translated as: Halgin, D.S., & Borgatti, S.P. 2012. Introduzione alla personal network analysis e alle statistiche tie churn attraverso l'uso di E-NET. Sociologia e Politiche Sociali. Vol 2: 1-28. DOI: 10.3280/SP2012-002003"
+doi = "10.3280/SP2012-002003"
+pdf = "2012-reprinted-introduzione-alla-personal-network-analysis-e-alle.pdf"
+
+[[pub]]
+type = "article"
+year = "2012"
+citation = "Everett, MG and Borgatti, SP. 2012. Categorical attribute based centrality: E–I and G–F centrality. Social Networks 34(4): 562–569"
+pdf = "2012-everett-categorical-attribute-based-centrality-ei-and-gf.pdf"
+
+[[pub]]
+type = "article"
+year = "2012"
+citation = "Li, J., Weeks, M., Clair, S., Borgatti, S. 2012. A Social Network Approach to Demonstrate the Diffusion and Change Process of Intervention from Peer Health Advocates to the Drug Using Community. Substance Use & Misuse, 47:474–490"
+pdf = "2012-weeks-a-social-network-approach-to-demonstrate-the.pdf"
+
+[[pub]]
+type = "article"
+year = "2012"
+citation = "Borgatti, S.P., Bernard, HR, Pelto, P, Ryan, G, DeJordy, R. 2012. The Camp ‘92 Dataset. Connections 32(1): 51-53."
+pdf = "2012-borgatti-the-camp-92-dataset.pdf"
+
+[[pub]]
+type = "article"
+year = "2011"
+citation = "Foster, P., Borgatti, S.P. and Jones, C. 2011. The contingent value of embeddedness: gatekeeper search in a local cultural market. Poetics. 39(4): 247-265."
+pdf = "2011-foster-the-contingent-value-of-embeddedness-gatekeeper-search.pdf"
+
+[[pub]]
+type = "article"
+year = "2011"
+citation = "Kane, G. and Borgatti, S.P. 2011. Centrality–IS proficiency alignment and workgroup performance. MIS Quarterly. 35(4):1063-1078"
+pdf = "2011-kane-centralityis-proficiency-alignment-and-workgroup-performance.pdf"
+
+[[pub]]
+type = "article"
+year = "2011"
+citation = "Borgatti, S.P. & Halgin, D.S. 2011. On Network Theory. Organization Science. 22(5):1168-1181."
+pdf = "2011-borgatti-on-network-theory.pdf"
+
+[[pub]]
+type = "article"
+year = "2010"
+citation = "Sasovova, Z., Mehra, A., Borgatti, S.P., Schippers, M. 2010. Network Churn: The Effects of Self-Monitoring Personality on Brokerage Dynamics. Administrative Science Quarterly 55(4): 639-670"
+pdf = "2010-sasovova-network-churn-the-effects-of-self-monitoring.pdf"
+
+[[pub]]
+type = "article"
+year = "2010"
+citation = "Everett, MG & Borgatti, SP 2010. Induced, endogenous and exogenous centrality. Social Networks. 32(4): 339-344"
+pdf = "2010-everett-induced-endogenous-and-exogenous-centrality.pdf"
+
+[[pub]]
+type = "article"
+year = "2009"
+citation = "Jeffrey C. Johnson, Joseph J. Luczkovich, Stephen P. Borgatti, Tom A.B. Snijders. 2009. Using social network analysis tools in ecology: Markov process transition models applied to the seasonal trophic network dynamics of the Chesapeake Bay. Ecological Modelling 220: 3133-3140"
+pdf = "2009-johnson-using-social-network-analysis-tools-in-ecology.pdf"
+
+[[pub]]
+type = "article"
+year = "2009"
+citation = "Borgatti, S.P., Mehra, A., Brass, D. and Labianca, G. 2009. Network Analysis in the Social Sciences. Science. 323(5916): 892-895."
+pdf = "2009-borgatti-network-analysis-in-the-social-sciences.pdf"
+
+[[pub]]
+type = "article"
+year = "2009"
+citation = "Borgatti, S.P., Li, X. 2009. \"On network analysis in a supply chain context.\" Journal of Supply Chain Management. 45(2):5-22."
+pdf = "2009-borgatti-on-network-analysis-in-a-supply-chain.pdf"
+
+[[pub]]
+type = "article"
+year = "2009"
+citation = "Collins, S., Yassine, A., Borgatti, S. (2009) \"Evaluating Product Development Systems Using Network Analysis,\" Systems Engineering 12(1): 55 – 68"
+pdf = "2009-collins-evaluating-product-development-systems-using-network-analysis.pdf"
+
+[[pub]]
+type = "article"
+year = "2007"
+citation = "Y. Chen, G. Paul, R. Cohen, S. Havlin, S. P. Borgatti, F. Liljeros, and H. E. Stanley, 2007. \"Percolation Theory and Fragmentation Measures in Social Networks\", Physica A 378, 11-19."
+pdf = "2007-chen-percolation-theory-and-fragmentation-measures-in-social.pdf"
+
+[[pub]]
+type = "article"
+year = "2007"
+citation = "Y. Chen, G. Paul, R. Cohen, S. Havlin, S. P. Borgatti, F. Liljeros, and H. E. Stanley, 2007. \"Percolation Theory Applied to Measures of Fragmentation in Social Networks,\" Phys. Rev. E 75, Issue 4 046107."
+pdf = "2007-chen-percolation-theory-applied-to-measures-of-fragmentation.pdf"
+
+[[pub]]
+type = "article"
+year = "2007"
+citation = "Borgatti, S.P, and Carboni, I. 2007. Measuring individual knowledge in organizations. Organizational Research Methods 10(3): 449-462."
+pdf = "2007-borgatti-measuring-individual-knowledge-in-organizations.pdf"
+
+[[pub]]
+type = "article"
+year = "2007"
+citation = "DeJordy, Borgatti, Roussin and Halgin. 2007. Visualizing Proximity Data. Field Methods 19(3): 239-263."
+pdf = "2007-dejordy-visualizing-proximity-data.pdf"
+
+[[pub]]
+type = "article"
+year = "2006"
+citation = "Borgatti, S. P. and Everett, M.G. 2006. A graph-theoretic perspective on centrality. Social Networks 28(4): 466-484."
+pdf = "2006-borgatti-a-graph-theoretic-perspective-on-centrality.pdf"
+
+[[pub]]
+type = "article"
+year = "2006"
+citation = "Borgatti, S.P., Carley, K., and Krackhardt, D. 2006. Robustness of Centrality Measures under Conditions of Imperfect Data. Social Networks 28: 124–136."
+pdf = "2006-borgatti-robustness-of-centrality-measures-under-conditions-of.pdf"
+
+[[pub]]
+type = "article"
+year = "2006"
+citation = "Borgatti, S.P. 2006. Identifying sets of key players in a network. Computational and Mathematical Organization Theory. 12(1): 21-34."
+pdf = "2006-borgatti-identifying-sets-of-key-players-in-a.pdf"
+
+[[pub]]
+type = "article"
+year = "2005"
+citation = "Borgatti, S.P. and Molina, J.L. 2005. Toward ethical guidelines for network research in organizations. Social Networks. 27(2): 107-117."
+pdf = "2005-borgatti-toward-ethical-guidelines-for-network-research-in.pdf"
+
+[[pub]]
+type = "article"
+year = "2005"
+citation = "Everett, M.G., and Borgatti, S.P. 2005. Ego-Network Betweenness. Social Networks. 27(1): 31-38."
+pdf = "2005-everett-ego-network-betweenness.pdf"
+
+[[pub]]
+type = "article"
+year = "2005"
+citation = "Borgatti, S.P. 2005. Centrality and network flow. Social Networks. 27(1): 55-71."
+pdf = "2005-borgatti-centrality-and-network-flow.pdf"
+
+[[pub]]
+type = "article"
+year = "2004"
+citation = "Hartwell, J.K, Barnett, R.C. and Borgatti, S. (2004) Medical managers’ beliefs about reduced-hour physicians. Journal of Health Organization and Management 18(4): 262-278."
+
+[[pub]]
+type = "article"
+year = "2003"
+citation = "Borgatti, S.P. and Foster, P. 2003. The network paradigm in organizational research: A review and typology. Journal of Management. 29(6): 991-1013."
+pdf = "2003-borgatti-the-network-paradigm-in-organizational-research-a.pdf"
+
+[[pub]]
+type = "article"
+year = "2003"
+citation = "Borgatti, S.P. and Molina, J-L. 2003. Ethical and strategic issues in organizational network analysis. Journal of Applied Behavioral Science. 39(3): 337-349."
+pdf = "2003-borgatti-ethical-and-strategic-issues-in-organizational-network.pdf"
+
+[[pub]]
+type = "article"
+year = "2003"
+citation = "Stevenson, W. S., Bartunek, J. M., and Borgatti, S. P. 2003. Front and backstage processes of an organizational restructuring effort. Journal of Applied Behavioral Science. 39(3): 243-258."
+pdf = "2003-stevenson-front-and-backstage-processes-of-an-organizational.pdf"
+
+[[pub]]
+type = "article"
+year = "2003"
+citation = "Luczkovich, J.J., Borgatti, S.P., Johnson, J.C. and Everett, M.G. 2003. Defining and Measuring Trophic Role Similarity in Food Webs Using Regular Equivalence, Journal of Theoretical Biology. 220(3): 303-319."
+pdf = "2003-luczkovich-defining-and-measuring-trophic-role-similarity-in.pdf"
+
+[[pub]]
+type = "article"
+year = "2003"
+citation = "Borgatti, S.P. and Cross, R. 2003. A Relational View of Organizational Learning. Management Science. 49(4): 432-445."
+pdf = "2003-borgatti-a-relational-view-of-organizational-learning.pdf"
+
+[[pub]]
+type = "article"
+year = "2003"
+citation = "Nyblom, J., Borgatti, S., Roslakka, J., and Salo, M. 2003. Statistical analysis of network data: An application to diffusion of innovation. Social Networks. 25 (2003) 175–195."
+pdf = "2003-nyblom-statistical-analysis-of-network-data-an-application.pdf"
+
+[[pub]]
+type = "article"
+year = "2002"
+citation = "Weeks, M.R., Clair, S., Borgatti, S.P., Radda, K., and Schensul, J.J. 2002. Social networks of drug users in high risk sites: Finding the connections. AIDS and Behavior 6(2): 193-206."
+pdf = "2002-weeks-social-networks-of-drug-users-in-high.pdf"
+
+[[pub]]
+type = "article"
+year = "2002"
+citation = "Cross, R., Borgatti, S.P. & Parker, A., 2002. Making Invisible Work Visible: Using Social Network Analysis to Support Strategic Collaboration. California Management Review. 44(2): 25-46."
+pdf = "2002-cross-making-invisible-work-visible-using-social-network.pdf"
+
+[[pub]]
+type = "article"
+year = "2002"
+citation = "Borgatti, S.P. 2002. A Statistical Method for Comparing Aggregate Data Across a priori Groups. Field Methods 14(1): 88-107."
+pdf = "2002-borgatti-a-statistical-method-for-comparing-aggregate-data.pdf"
+
+[[pub]]
+type = "article"
+year = "2001"
+citation = "Cross, R., Parker, A., Prusak, L. & Borgatti, S.P. 2001. Knowing What We Know: Supporting Knowledge Creation and Sharing in Social Networks. Organizational Dynamics 30(2): 100-120."
+pdf = "2001-cross-knowing-what-we-know-supporting-knowledge-creation.pdf"
+
+[[pub]]
+type = "article"
+year = "2001"
+citation = "Cross, R., Borgatti, S.P., & Parker, A. 2001. Beyond Answers: Dimensions of the Advice Network. Social Networks 23(3): 215-235."
+pdf = "2001-cross-beyond-answers-dimensions-of-the-advice-network.pdf"
+
+[[pub]]
+type = "article"
+year = "2001"
+citation = "Johnson, J., Borgatti, SP, Luczkovich, J. & Everett, M.G. 2001. Network Role Analysis in the Study of Food Webs: An application of regular role coloration. Journal of Social Structure. 2(3): 1-15."
+pdf = "2001-johnson-network-role-analysis-in-the-study-of.pdf"
+
+[[pub]]
+type = "article"
+year = "2000"
+citation = "Cross, R.L., Parker, A. and Borgatti, S.P. 2000. A birds-eye view: Using social network analysis to improve knowledge creation and sharing. Knowledge Directions. 2(1): 48-61."
+pdf = "2000-cross-a-birds-eye-view-using-social-network.pdf"
+
+[[pub]]
+type = "article"
+year = "1999"
+citation = "Borgatti, S.P. and Everett, M.G. 1999. Models of Core/Periphery Structures. Social Networks 21: 375-395."
+pdf = "1999-borgatti-models-of-core-periphery-structures.pdf"
+
+[[pub]]
+type = "article"
+year = "1999"
+citation = "Everett, M.G. and Borgatti, S.P. 1999. Peripheries of Cohesive Subsets. Social Networks 21: 397-407."
+pdf = "1999-everett-peripheries-of-cohesive-subsets.pdf"
+
+[[pub]]
+type = "article"
+year = "1999"
+citation = "Everett, M. G., & Borgatti, S. P. 1999. The centrality of groups and classes. Journal of Mathematical Sociology. 23(3): 181-201."
+pdf = "1999-everett-the-centrality-of-groups-and-classes.pdf"
+
+[[pub]]
+type = "article"
+year = "1999"
+citation = "Snijders, T.A.B. and Borgatti, S.P. 1999. Non-parametric standard errors and tests for network statistics. Connections, 22(2): 61-70."
+pdf = "1999-snijders-non-parametric-standard-errors-and-tests-for.pdf"
+
+[[pub]]
+type = "article"
+year = "1998"
+citation = "Borgatti, S. P., Jones, C., and Everett, M. G. 1998. Network measures of social capital. Connections. 21(2): 27-36."
+pdf = "1998-borgatti-network-measures-of-social-capital.pdf"
+
+[[pub]]
+type = "article"
+year = "1998"
+citation = "Everett, M. G., & Borgatti, S. P. 1998. Analyzing clique overlap. Connections, 21(1): 49-61."
+pdf = "1998-everett-analyzing-clique-overlap.pdf"
+
+[[pub]]
+type = "article"
+year = "1998"
+citation = "Jones, C., Hesterly, W. S., Fladmoe-Lindquist, K., & Borgatti, S. P. 1998. Professional service constellations: How strategies and capabilities influence collaborative stability and change. Organization Science, 9(3): 396-410."
+pdf = "1998-jones-professional-service-constellations-how-strategies-and-capabilities.pdf"
+
+[[pub]]
+type = "article"
+year = "1997"
+citation = "Smith, J. J., & Borgatti, S. P. 1997. Salience counts and so does accuracy: Correcting and updating a measure for free-list-item salience. Journal of Linguistic Anthropology, 7(2): 208-209."
+pdf = "1997-smith-salience-counts-and-so-does-accuracy-correcting.pdf"
+
+[[pub]]
+type = "article"
+year = "1997"
+citation = "Jones, C., Hesterly, W. S., & Borgatti, S. P. 1997. A general theory of network governance: Exchange conditions and social mechanisms. Academy of Management Review, 22(4): 911‑945."
+pdf = "1997-jones-a-general-theory-of-network-governance-exchange.pdf"
+
+[[pub]]
+type = "article"
+year = "1997"
+citation = "Borgatti, S. P., & Everett, M. G. 1997. Network analysis of 2-mode data. Social Networks, 19(3): 243-269."
+pdf = "1997-borgatti-network-analysis-of-2-mode-data.pdf"
+
+[[pub]]
+type = "article"
+year = "1997"
+citation = "Borgatti, S. P. 1997. Structural holes: Unpacking Burt’s redundancy measures. Connections, 20(1): 35-38."
+pdf = "1997-borgatti-structural-holes-unpacking-burts-redundancy-measures.pdf"
+
+[[pub]]
+type = "article"
+year = "1996"
+citation = "Everett, M.G., & Borgatti, S. P. 1996. Exact colorations of graphs and digraphs. Social Networks, 18(4): 319‑331."
+pdf = "1996-everett-exact-colorations-of-graphs-and-digraphs.pdf"
+
+[[pub]]
+type = "article"
+year = "1996"
+citation = "Borgatti, S. P. & Jones, C. 1996. A measure of past collaboration. Connections, 19(1): 58-60."
+pdf = "1996-borgatti-a-measure-of-past-collaboration.pdf"
+
+[[pub]]
+type = "article"
+year = "1995"
+citation = "Borgatti, S. P. 1995. Treating 2-Mode data as a network. Connections, 18(2): 53-55."
+
+[[pub]]
+type = "article"
+year = "1995"
+citation = "Borgatti, S. P. 1995. Centrality and AIDS. Connections, 18(1): 112-114."
+pdf = "1995-borgatti-centrality-and-aids.pdf"
+
+[[pub]]
+type = "article"
+year = "1994"
+citation = "Borgatti, S. P. 1994. Using MDS to infer relative status from dominance matrices. Connections 17(2): 75-77."
+pdf = "1994-borgatti-using-mds-to-infer-relative-status-from.pdf"
+
+[[pub]]
+type = "article"
+year = "1994"
+citation = "Borgatti, S. P. 1994. How to explain hierarchical clustering. Connections, 17(2): 78-80."
+
+[[pub]]
+type = "article"
+year = "1994"
+citation = "Borgatti, S. P. and Feld S. L. 1994. How to test the strength of weak ties theory. Connections 17(1): 45-46"
+
+[[pub]]
+type = "article"
+year = "1994"
+citation = "Borgatti, S. P. 1994. A quorum of graph theoretic concepts. Connections 17(1): 47-49."
+pdf = "1994-borgatti-a-quorum-of-graph-theoretic-concepts.pdf"
+
+[[pub]]
+type = "article"
+year = "1994"
+citation = "Everett, M.G., & Borgatti, S. P. 1994. Regular equivalence: General theory. Journal of Mathematical Sociology, 19(1): 29-52."
+pdf = "1994-everett-regular-equivalence-general-theory.pdf"
+
+[[pub]]
+type = "article"
+year = "1994"
+citation = "White, D. R., & Borgatti, S. P. 1994. Betweenness centrality measures for directed graphs. Social Networks, 16(4): 335-346."
+pdf = "1994-white-betweenness-centrality-measures-for-directed-graphs.pdf"
+
+[[pub]]
+type = "article"
+year = "1994"
+citation = "Borgatti, S. P. 1994. Cultural domain analysis. Journal of Quantitative Anthropology, 4: 261-278."
+pdf = "1994-borgatti-cultural-domain-analysis.pdf"
+
+[[pub]]
+type = "article"
+year = "1994"
+citation = "Borgatti, S. P., & Everett, M. G. 1994. Ecological and perfect colorings. Social Networks, 16: 43-55."
+pdf = "1994-borgatti-ecological-and-perfect-colorings.pdf"
+
+[[pub]]
+type = "article"
+year = "1993"
+citation = "Borgatti, S. P., & Everett, M. G. 1993. Two algorithms for computing regular equivalence. Social Networks, 15: 361-376."
+pdf = "1993-borgatti-two-algorithms-for-computing-regular-equivalence.pdf"
+
+[[pub]]
+type = "article"
+year = "1993"
+citation = "Everett, M. G., & Borgatti, S. P. 1993. An extension of regular colouring of graphs to digraphs, networks and hypergraphs. Social Networks, 15: 237-254."
+pdf = "1993-everett-an-extension-of-regular-colouring-of-graphs.pdf"
+
+[[pub]]
+type = "article"
+year = "1993"
+citation = "Stanton, B., Aronson, R., Borgatti, S. P., Galbraith, J., Feigelman, S., and the AIDS Youth Research Team. 1993. Urban adolescent high-risk sexual behavior: Corroboration of focus group discussions through pile-sorting. AIDS Education and Prevention, 5(2): 162-174."
+
+[[pub]]
+type = "article"
+year = "1992"
+citation = "Borgatti, S. P., Everett, M. G., and Freeman, L. C. 1992. Ucinet IV: Network analysis software. Connections 15:12-15."
+
+[[pub]]
+type = "article"
+year = "1992"
+citation = "Borgatti, S. P., & Everett, M. G. 1992. Graph colorings and power in experimental exchange networks. Social Networks, 14: 287-308."
+pdf = "1992-borgatti-graph-colorings-and-power-in-experimental-exchange.pdf"
+
+[[pub]]
+type = "article"
+year = "1992"
+citation = "Borgatti, S. P., & Everett, M. G. 1992. Notions of position in social network analysis. Sociological Methodology, 22: 1-35."
+pdf = "1992-borgatti-notions-of-position-in-social-network-analysis.pdf"
+
+[[pub]]
+type = "article"
+year = "1992"
+citation = "Borgatti, S. P., & Everett, M. G. 1992. Regular blockmodels of multiway, multimode matrices. Social Networks, 14: 91-120."
+pdf = "1992-borgatti-regular-blockmodels-of-multiway-multimode-matrices.pdf"
+
+[[pub]]
+type = "article"
+year = "1992"
+citation = "Borgatti, S. P. 1992. Special issue on blockmodels: Introduction. Social Networks, 14: 1-3."
+pdf = "1992-borgatti-special-issue-on-blockmodels-introduction.pdf"
+
+[[pub]]
+type = "article"
+year = "1991"
+citation = "Freeman, L. C., Borgatti, S. P., & White, D. R. 1991. Centrality in valued graphs: A measure of betweenness based on network flow. Social Networks, 13(2): 141-154."
+pdf = "1991-freeman-centrality-in-valued-graphs-a-measure-of.pdf"
+
+[[pub]]
+type = "article"
+year = "1991"
+citation = "Everett, M. G., & Borgatti, S. P. 1991. Role colouring a graph. Mathematical Social Sciences, 21: 183-188."
+pdf = "1991-everett-role-colouring-a-graph.pdf"
+
+[[pub]]
+type = "article"
+year = "1990"
+citation = "Borgatti, S. P., Everett, M. G., & Shirey, P. 1990. LS sets, lambda sets and other cohesive subsets. Social Networks, 12: 337-357."
+pdf = "1990-borgatti-ls-sets-lambda-sets-and-other-cohesive.pdf"
+
+[[pub]]
+type = "article"
+year = "1990"
+citation = "Everett, M. G., & Borgatti, S. P. 1990. A note on juncture homomorphisms. Social Networks, 12:385-389."
+pdf = "1990-everett-a-note-on-juncture-homomorphisms.pdf"
+
+[[pub]]
+type = "article"
+year = "1990"
+citation = "Everett, M. G., & Borgatti, S. P. 1990. A testing example for positional analysis techniques. Social Networks, 12: 253-260."
+pdf = "1990-everett-a-testing-example-for-positional-analysis-techniques.pdf"
+
+[[pub]]
+type = "article"
+year = "1990"
+citation = "Everett, M. G., Boyd, J. P., & Borgatti, S. P. 1990. Ego-centered and local roles: A graph theoretic approach. Journal of Mathematical Sociology, 15(3-4): 163-172."
+pdf = "1990-everett-ego-centered-and-local-roles-a-graph.pdf"
+
+[[pub]]
+type = "article"
+year = "1990"
+citation = "Borgatti, S. P. 1990. Using ANTHROPAC to investigate a cultural domain: Part III. CAM Journal 2(3):10-10."
+
+[[pub]]
+type = "article"
+year = "1990"
+citation = "Borgatti, S. P. 1990. Using ANTHROPAC to investigate a cultural domain: Part II. CAM Journal 2(1):8-8."
+
+[[pub]]
+type = "article"
+year = "1990"
+citation = "Everett, M. G., and Borgatti. S. P. 1990. Any colour you like it. Connections 13:19-22."
+
+[[pub]]
+type = "article"
+year = "1989"
+citation = "Borgatti, S. P. 1989 Using ANTHROPAC to investigate a cultural domain. CAM Journal 1(2):11."
+pdf = "1989-borgatti-using-anthropac-to-investigate-a-cultural-domain.pdf"
+
+[[pub]]
+type = "article"
+year = "1989"
+citation = "Borgatti, S. P., Boyd, J. P., & Everett, M. G. 1989. Iterated roles: Mathematics and application. Social Networks, 11: 159-172."
+pdf = "1989-borgatti-iterated-roles-mathematics-and-application.pdf"
+
+[[pub]]
+type = "article"
+year = "1989"
+citation = "Borgatti, S. P., & Everett, M. G. 1989. The class of all regular equivalences: Algebraic structure and computation. Social Networks, 11: 65-88."
+pdf = "1989-borgatti-the-class-of-all-regular-equivalences-algebraic.pdf"
+
+[[pub]]
+type = "article"
+year = "1988"
+citation = "Borgatti, S. P. 1988. A comment on Doreian's regular equivalence in symmetric structures. Social Networks, 10: 265-271."
+pdf = "1988-borgatti-a-comment-on-doreian-s-regular-equivalence.pdf"
+
+[[pub]]
+type = "article"
+year = "1988"
+citation = "Everett, M. G., & Borgatti, S. P. 1988. Calculating role similarities: An algorithm that helps determine the orbits of a graph. Social Networks, 10: 77-91."
+pdf = "1988-everett-calculating-role-similarities-an-algorithm-that-helps.pdf"
+
+[[pub]]
+type = "article"
+year = "1988"
+citation = "Borgatti, S. P. 1988 \"NETPAC version 1.\" Connections 11:44-50."
+pdf = "1988-borgatti-netpac-version-1.pdf"
+
+[[pub]]
+type = "chapter"
+year = "2024"
+citation = "Everett, M. G., & Borgatti, S. P. (2024). Centrality. In John McLevey, John Scott, Peter J Carrington, The Sage Handbook of Social Network Analysis. Sage Publications Ltd."
+
+[[pub]]
+type = "chapter"
+year = "2021"
+citation = "Borgatti, S., Halgin, D. S. 2021. On J. Clyde Mitchell’s ‘The Concept and Use of Social Networks’. In Personal Networks: Classic Readings and New Directions in Ego-Centric Analysis. Cambridge University Press."
+
+[[pub]]
+type = "chapter"
+year = "2020"
+citation = "Borgatti, S.P. and Everett, M.G., 2020. Three Perspectives on Centrality. In Light, R. and Moody, J. (Eds.) The Oxford Handbook of Social Networks, p.334-345."
+pdf = "2020-borgatti-three-perspectives-on-centrality.pdf"
+
+[[pub]]
+type = "chapter"
+year = "2019"
+citation = "Borgatti, S.P. and Brass, D.J., 2019. Centrality: Concepts and Measures. In Social Networks at Work (pp. 9-22). Routledge."
+
+[[pub]]
+type = "chapter"
+year = "2019"
+citation = "Brass, D.J. and Borgatti, S.P., 2019. A Brief Primer on Social Network Analysis. Social Networks at Work. Routledge."
+
+[[pub]]
+type = "chapter"
+year = "2019"
+citation = "Everett, M.G. and Borgatti, S.P., 2019. Partitioning multimode networks. Advances in network clustering and blockmodeling, pp.251-265."
+pdf = "2019-everett-partitioning-multimode-networks.pdf"
+
+[[pub]]
+type = "chapter"
+year = "2018"
+citation = "Brass, D. and Borgatti, SP. 2018. \"Multilevel Thoughts on Social Networks.\" in Stephen E. Humphrey, James M. LeBreton (eds). The Handbook of Multilevel Theory, Measurement, and Analysis. American Psychological Association."
+
+[[pub]]
+type = "chapter"
+year = "2018"
+citation = "Bernard, R., Bienenstock, E., Borgatti, S., Brandes, U., Burt, R., Butts, C., Doreian, P., Fararo, T., Faust, K., Johnson, J., Kanfer, A.M., Krackhardt, D., Skvoretz, J., and Wellman, B. 2018. A collection of tributes to Linton C. Freeman. Connections, 38(1), pp.1-16. Doi: 10.21307/connections-2018-003"
+doi = "10.21307/connections-2018-003"
+
+[[pub]]
+type = "chapter"
+year = "2017"
+citation = "Julie E. Ferguson, Peter Groenewegen, Christine Moser, Stephen P. Borgatti, John W. Mohr. 2017. \"Structure, Content, and Meaning of Organizational Networks: Extending Network Thinking, Introduction\" In Structure, Content and Meaning of Organizational Networks: Extending Network Thinking. Research in the Sociology of Organizations, Volume 53, 1-15."
+pdf = "2017-ferguson-structure-content-and-meaning-of-organizational-networks.pdf"
+
+[[pub]]
+type = "chapter"
+year = "2017"
+citation = "Borgatti, SP. 2017. What Can Political Science Learn from Business and Management?: An Interview with Stephen P. Borgatti. In Victor, J.N., Montgomery, A.H. and Lubell, M. eds., 2017. The Oxford Handbook of Political Networks. Oxford University Press."
+pdf = "2017-borgatti-what-can-political-science-learn-from-business.pdf"
+
+[[pub]]
+type = "chapter"
+year = "2017"
+citation = "Kilduff, M., Mehra, A., Gioia, D.A.D. and Borgatti, S., 2017. Brokering Trust to Enhance Leadership: A Self-Monitoring Approach to Leadership Emergence. In Knowledge and Networks (pp. 221-240). Volume 11 of the series Knowledge and Space. Springer International Publishing."
+pdf = "2017-kilduff-brokering-trust-to-enhance-leadership-a-self.pdf"
+
+[[pub]]
+type = "chapter"
+year = "2015"
+citation = "Borgatti, S.P. and Grosser, T.J. 2015. Structural equivalence: Meaning and measures. In J.D. Wright (Ed.) International Encyclopedia of the Social & Behavioral Sciences, 2nd Edition, pp. 621-625. Oxford: Elsevier."
+
+[[pub]]
+type = "chapter"
+year = "2014"
+citation = "Borgatti, S.P., Brass, D.J., Halgin, D.S. 2014. Social network research: Confusions, criticisms, and controversies. In Daniel J. Brass, Giuseppe (Joe) Labianca, Ajay Mehra, Daniel S. Halgin, and Stephen P. Borgatti (Eds.) Contemporary Perspectives on Organizational Social Networks. Research in the Sociology of Organizations. Emerald."
+
+[[pub]]
+type = "chapter"
+year = "2014"
+citation = "Obstfeld, D., Borgatti, S., & Davis, J. 2014. Brokerage as a process: Decoupling third party action from social network structure. In Daniel J. Brass, Giuseppe (Joe) Labianca, Ajay Mehra, Daniel S. Halgin, and Stephen P. Borgatti (Eds.) Contemporary Perspectives on Organizational Social Networks. Research in the Sociology of Organizations. Emerald."
+pdf = "2014-obstfeld-brokerage-as-a-process-decoupling-third-party.pdf"
+
+[[pub]]
+type = "chapter"
+year = "2014"
+citation = "Mehra, A., Borgatti, S.P., Soltis, S., Floyd, T., Ofem, B., Halgin, D.S., & Kidwell-Lopez, V. 2014. Imaginary worlds: Using visual network scales to capture perceptions of social networks. In Daniel J. Brass, Giuseppe (Joe) Labianca, Ajay Mehra, Daniel S. Halgin, and Stephen P. Borgatti (Eds.) Contemporary Perspectives on Organizational Social Networks. Research in the Sociology of Organizations. Emerald."
+pdf = "2014-mehra-imaginary-worlds-using-visual-network-scales-to.pdf"
+
+[[pub]]
+type = "chapter"
+year = "2012"
+citation = "Ofem, B., Floyd, T., Borgatti, SP (2012). The Social Network Approach to Understanding Organizational Phenomena. In D.D. Caulkins, A. Jordan (Eds.), Companion to Organizational Anthropology. Blackwell."
+
+[[pub]]
+type = "chapter"
+year = "2012"
+citation = "Borgatti, S.P. and Halgin, D. 2012. Mapping Culture: Elicitation Methods for Cultural Domain Analysis - Revised. in J. Schensul & M. LeCompte (Eds). Ethnographer's Toolkit, Second Edition, Volume 3. Walnut Creek: Altamira Press."
+
+[[pub]]
+type = "chapter"
+year = "2011"
+citation = "Borgatti, S.P. and Halgin, D. 2011. “Consensus Analysis”. In Kronenfeld, D. and DeMunck, V. (eds) In Blackwell's Companion to Cognitive Anthropology. Blackwell."
+pdf = "2011-borgatti-consensus-analysis.pdf"
+
+[[pub]]
+type = "chapter"
+year = "2011"
+citation = "Borgatti, S.P. and Lopez-Kidwell, V. 2011. “Network Theory”. In Carrington, P. and Scott, J. (eds) In The Sage Handbook of Social Network Analysis. Sage Publications"
+pdf = "2011-borgatti-network-theory.pdf"
+
+[[pub]]
+type = "chapter"
+year = "2011"
+citation = "Borgatti, S.P. and Halgin, D. 2011. “Analyzing Affiliation Networks”. In Carrington, P. and Scott, J. (eds) In The Sage Handbook of Social Network Analysis. Sage Publications"
+
+[[pub]]
+type = "chapter"
+year = "2010"
+citation = "Mehra, A., Borgatti, S.P., Brass, D., Labianca, G. 2010. “The Social Network Perspective”. In Stanley D. Brunn (Ed.) Engineering Earth: The Impacts of Megaengineering Projects. Dordrecht, The Netherlands: Springer Science+Business Media"
+pdf = "2010-mehra-the-social-network-perspective.pdf"
+
+[[pub]]
+type = "chapter"
+year = "2010"
+citation = "Borgatti, S. P., & Ofem, B. 2010. Overview: Social network theory and analysis. In A. J. Daly (Ed.), The ties of change: Social network theory and application in education. (pp. 17-30). Cambridge, MA: Harvard Education Press"
+
+[[pub]]
+type = "chapter"
+year = "2005"
+citation = "Everett, M.G. and Borgatti, S.P. 2005. Extending centrality. Chapter in Carrington, P., Scott, J., Wasserman, S (Eds.) Models and Methods in Social Network Analysis. Cambridge University Press: Cambridge."
+pdf = "2005-everett-extending-centrality.pdf"
+
+[[pub]]
+type = "chapter"
+year = "2004"
+citation = "Cross, R. & Borgatti, S.P. (2004) The Ties That Share: Relational Characteristics that Facilitate Information Seeking. In M.H. Huysman and V. Wulf (Eds) Social Capital and IT. MIT Press: Cambridge."
+pdf = "2004-cross-the-ties-that-share-relational-characteristics-that.pdf"
+
+[[pub]]
+type = "chapter"
+year = "2003"
+citation = "Borgatti, S.P. 2003. The Key Player Problem. Pp. 241-252 in Dynamic Social Network Modeling and Analysis: Workshop Summary and Papers, R. Breiger, K. Carley, & P. Pattison, (Eds.), National Academies Press."
+pdf = "2003-borgatti-the-key-player-problem.pdf"
+
+[[pub]]
+type = "chapter"
+year = "2002"
+citation = "Everett, M.G. and Borgatti, S.P. 2002. Computing regular equivalence: Practical and Theoretical Issues. Metodoloski zvezki, Andrej Mrvar and Anuška Ferligoj (Editors) 17, Ljubljana: FDV, 2002 pages 31-42"
+
+[[pub]]
+type = "chapter"
+year = "1999"
+citation = "Borgatti, S. P. 1999. Elicitation techniques for cultural domain analysis. In J. Schensul & M. LeCompte (Eds.), The Ethnographer’s toolkit, vol. 3. Walnut Creek: Altamira Press."
+pdf = "1999-borgatti-elicitation-techniques-for-cultural-domain-analysis.pdf"
+
+[[pub]]
+type = "chapter"
+year = "1998"
+citation = "Borgatti, S. P. 1998. The methods. In V. C. De Munck & E. J. Sobo (Eds.), Using methods in the field: A practical introduction and casebook. Walnut Creek: Altamira Press."
+
+[[pub]]
+type = "chapter"
+year = "1998"
+citation = "Handwerker, W. P., & Borgatti, S. P. 1998. Reasoning with numbers. In H. R. Bernard, (Ed.), Handbook of Methods in Cultural Anthropology. Walnut Creek: Altamira Press."
+
+[[pub]]
+type = "chapter"
+year = "1997"
+citation = "Everett, M. G., & Borgatti, S. P. 1997. The regular coloration of graphs. In C. Mitchell (Ed.), Applications of combinatorial mathematics: 49-58. Oxford: Oxford University Press."
+
+[[pub]]
+type = "edited"
+year = "2019"
+citation = "Brass, D.J. and Borgatti, S.P. eds., 2019. Social Networks at Work. Routledge."
+
+[[pub]]
+type = "edited"
+year = "2017"
+citation = "Julie E. Ferguson, Peter Groenewegen, Christine Moser, Stephen P. Borgatti, John W. Mohr , Editors 2017. Structure, Content and Meaning of Organizational Networks: Extending Network Thinking. Research in the Sociology of Organizations, Volume 53."
+
+[[pub]]
+type = "edited"
+year = "2014"
+citation = "Daniel J. Brass, Giuseppe (Joe) Labianca, Ajay Mehra, Daniel S. Halgin, and Stephen P. Borgatti (Eds.) 2014. Contemporary Perspectives on Organizational Social Networks. Research in the Sociology of Organizations. Emerald."
+
+[[pub]]
+type = "edited"
+year = "1992"
+citation = "Borgatti, S. P. 1992. (ed.) Special issue on blockmodeling. Social Networks Volume14."
+
+[[pub]]
+type = "other"
+year = "2026"
+citation = "Argote, L., Park, S. S., Reagans, R., Bikard, M. A., Kacperczyk, A. J., Mogra, R., ... & Borgatti, S. P. (2026, July). Individuals in the Social and Technological Architecture of Knowledge Exchange. In Academy of Management Proceedings."
+
+[[pub]]
+type = "other"
+year = "2022"
+citation = "Coutinho, J., Bellotti, E., & Borgatti, S. P. (2022). Informal Control, Effective Voice and Perceptions of Work Reward Fairness in a Worker Co-operative. In Academy of Management Proceedings (Vol. 2022, No. 1, p. 11871). Academy of Management."
+
+[[pub]]
+type = "other"
+year = "2022"
+citation = "Rohit Subhash Piplani, Travis Grosser, Virginie Lopez Kidwell, Brian R Dineen, Stephen P Borgatti 2022. Effect of Team Co-membership Change on Change in Interpersonal Affect in the Workplace. Academy of Management Proceedings."
+pdf = "2022-piplani-effect-of-team-co-membership-change-on.pdf"
+
+[[pub]]
+type = "other"
+year = "2019"
+citation = "Aguinis, H., Bailey, J.R., Borgatti, S.P., Boyd, B., DeJordy, R., DeSimone, J.A., Hill, N.S., Newman, D.A., O'Boyle, E., Ryu, J.W. and Schurer Lambert, L., 2019, July. Recommendations for Improved Methods and Analysis in Management Research. In Academy of Management Proceedings (Vol. 2019, No. 1, p. 17367). Academy of Management."
+
+[[pub]]
+type = "other"
+year = "2018"
+citation = "Ofem, B., Arya, B., Ferrier, W.J. and Borgatti, S.P., 2018, July. EO, Network Resources, and Social Performance: Does Organizational Age Matter? In Academy of Management Proceedings (Vol. 2018, No. 1, p. 11076). Academy of Management."
+
+[[pub]]
+type = "other"
+year = "2017"
+citation = "Ofem, B., Arya, B. and Borgatti, S.P., 2017, January. The Relational Drivers of Collaborative Success between Rural Economic Development Organizations. In Academy of Management Proceedings (Vol. 2017, No. 1, p. 10849). Academy of Management Publications."
+pdf = "2017-ofem-january.pdf"
+
+[[pub]]
+type = "other"
+year = "2010"
+citation = "Soltis, SM, Sterling, CM, Borgatti, SP, Ferrier, WJ. 2010. College football recruiting: a test of factor market competition theory. Academy of Management Annual Meeting Proceedings. P1-6, ; DOI: 10.5465/AMBPP.2010.54501014"
+doi = "10.5465/AMBPP.2010.54501014"
+pdf = "2010-soltis-college-football-recruiting-a-test-of-factor.pdf"
+
+[[pub]]
+type = "other"
+year = "2008"
+citation = "S Borgatti, S Kobourov, O Kohlbacher, P Mutzel, P Healy, T Dwyer, U Brandes. 2008. Graph drawing with applications to bioinformatics and social sciences. Schloss Dagstuhl seminar 8191"
+
+[[pub]]
+type = "other"
+year = "2006"
+citation = "Huang, Z., Borgatti, SP. 2006. Organizational initial categorization: imprinting and the mitigation of imprinting. Academy of Management Annual Meeting Proceedings. p1-6; DOI: 10.5465/AMBPP.2006.27176426"
+doi = "10.5465/AMBPP.2006.27176426"
+pdf = "2006-huang-organizational-initial-categorization-imprinting-and-the-mitigation.pdf"
+
+[[pub]]
+type = "other"
+year = "1992"
+citation = "Borgatti, S. P. 1992. ANTHROPAC 4.00 methods guide. Columbia: Analytic Technologies."
+
+[[pub]]
+type = "other"
+year = "1992"
+citation = "Borgatti, S. P. 1992. ANTHROPAC 4.00 reference manual. Columbia: Analytic Technologies."
+
+[[pub]]
+type = "other"
+year = "1992"
+citation = "Borgatti, S. P. 1992. ANTHROPAC 4.00 user's guide. Columbia: Analytic Technologies."
+
+[[pub]]
+type = "other"
+year = "1992"
+citation = "Borgatti, S. P., Everett, M.G., and Freeman, L. C. 1992. UCINET IV version 1.00 reference manual. Columbia: Analytic Technologies."
+
+[[pub]]
+type = "other"
+year = "1992"
+citation = "Borgatti, S. P., Everett, M.G., and Freeman, L. C. 1992. UCINET IV version 1.00 user's guide. Columbia: Analytic Technologies."
+
+[[pub]]
+type = "other"
+year = "1989"
+citation = "Borgatti, S. P. 1989. Regular equivalence in graphs, hypergraphs, and matrices. Doctoral Dissertation, Univ. of California, Irvine. Ann Arbor: UMI."
+pdf = "dissertation.pdf"
+
+# ---- Found in Dropbox\Library\Borgatti but not in the CV: check the details, then delete `hidden = true` ----
+
+[[pub]]
+type = "article"
+year = "2014"
+citation = "Kane, G. C., Alavi, M., Labianca, G., & Borgatti, S. P. (2014). What's different about social media networks? A framework and research agenda. MIS Quarterly, 38(1), 274-304."
+pdf = "2014-kane-what-s-different-about-social-media-networks.pdf"
+hidden = true
+
+[[pub]]
+type = "chapter"
+year = "2009"
+citation = "Borgatti, S. P. (2009). 2-Mode concepts in social network analysis. In Encyclopedia of Complexity and System Science. Springer."
+pdf = "2009-borgatti-2-mode-concepts-in-social-network-analysis.pdf"
+hidden = true
+
+[[pub]]
+type = "chapter"
+year = "2013"
+citation = "Grosser, T. J., & Borgatti, S. P. (2013). Network theory / social network analysis. Encyclopedia entry. DOI: 10.4135/9781452276311.n196"
+doi = "10.4135/9781452276311.n196"
+pdf = "2013-grosser-network-theory-social-network-analysis-encyclopedia-entry.pdf"
+hidden = true
+
+[[pub]]
+type = "other"
+year = "2013"
+citation = "Halgin, D. S., Gopalakrishnan, G., & Borgatti, S. P. (2013). Voluntary turnover in a distributed work setting: An examination of the role of spatial propinquity and role similarity in project affiliation networks. Proceedings of CSCW '13, San Antonio, TX."
+pdf = "2013-halgin-voluntary-turnover-in-a-distributed-work-setting.pdf"
+hidden = true

@@ -1,0 +1,41 @@
+---
+title: "Stephen P. Borgatti"
+subtitle: "Professor and Carol Martin Gatton Endowed Chair of Management · University of Kentucky"
+page-layout: article
+# TODO: add a photo at assets/borgatti.jpg, then uncomment the next two lines
+# image: assets/borgatti.jpg
+# image-alt: "Steve Borgatti"
+---
+
+<!-- DRAFT bio written from the CV — please edit freely. -->
+
+I study social networks — mostly **network theory**: how the positions of people and organizations in networks shape what happens to them. I also have long-standing interests in cultural domain analysis and knowledge management.
+
+I'm a professor in the [Department of Management](https://gatton.uky.edu/) at the University of Kentucky's Gatton College of Business and Economics, home of the [LINKS Center for Social Network Analysis](https://links.uky.edu/).
+
+::: {.quick-links}
+[Publications](publications.qmd){.btn .btn-outline-primary}
+[CV](cv.qmd){.btn .btn-outline-primary}
+[UCINET](software.qmd){.btn .btn-outline-primary}
+[The book](https://sites.google.com/site/analyzingsocialnetworks/home){.btn .btn-outline-primary}
+:::
+
+## About
+
+- **Software.** With Martin Everett and Lin Freeman I wrote [UCINET](software.qmd), the network analysis package, along with NetDraw, E-NET, KeyPlayer and ANTHROPAC, published by Analytic Technologies.
+- **Book.** *[Analyzing Social Networks](https://sites.google.com/site/analyzingsocialnetworks/home)* (Sage; 3rd edition 2024, with Everett, Johnson and Agneessens), plus a companion volume using R.
+- **Field.** I was President of the International Network for Social Network Analysis ([INSNA](https://www.insna.org/)) in 1993–1999 and again in 2016–2019, and founded the SOCNET listserv. I am co-editor of *Connections* and a co-founding editor of *Field Methods*.
+- **Teaching.** For many years I have taught network analysis workshops at the Sunbelt conference, the Academy of Management, the LINKS Center, Statistical Horizons and the Essex Summer School. See [Teaching](teaching.qmd).
+
+## Recognition
+
+- 2024 — Societal Impact Award, Gatton Research Excellence Awards
+- 2021–22 — [Named among the top 2% of researchers in the world](https://gatton.uky.edu/news/5-gatton-college-professors-named-top-2-percent-worlds-researchers)
+- 2011 — William D. Richards, Jr. Software Award, INSNA
+- 2008 — Georg Simmel Award, INSNA
+
+## Background
+
+Ph.D. in Mathematical Social Science, University of California, Irvine (1989); B.A. in Anthropology, Cornell University (1977). My dissertation, on regular equivalence, is [here](papers/dissertation.pdf). Before UK I taught at Boston College and the University of South Carolina.
+
+**Contact:** sborgatti@uky.edu

@@ -1,0 +1,24 @@
+---
+title: "Curriculum Vitae"
+---
+
+[Download CV (PDF)](cv/Borgatti-CV.pdf){.btn .btn-primary}
+
+To update it, export the latest CV from Word as `cv/Borgatti-CV.pdf` and republish.
+
+## Positions
+
+| | |
+|---|---|
+| 2021– | Professor and Carol Martin Gatton Endowed Chair, Dept. of Management, University of Kentucky |
+| 2019–2021 | Chair, Dept. of Management, University of Kentucky |
+| 2007–2019 | Professor and Paul Chellgren Endowed Chair, Dept. of Management, University of Kentucky |
+| 1995–2007 | Associate Professor, then Professor and Department Chair, Organization Studies, Carroll School of Management, Boston College |
+| 1989–1996 | Assistant, then Associate Professor of Sociology, University of South Carolina |
+
+## Education
+
+| | |
+|---|---|
+| 1989 | Ph.D., Mathematical Social Science, University of California, Irvine |
+| 1977 | B.A., Anthropology, Cornell University |

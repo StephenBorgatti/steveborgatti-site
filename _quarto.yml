@@ -1,0 +1,57 @@
+project:
+  type: website
+  output-dir: _site
+  pre-render: tools/build_publications.py
+  resources:
+    - CNAME
+    - papers/
+    - cv/
+
+website:
+  title: "Steve Borgatti"
+  site-url: https://steveborgatti.com
+  description: "Stephen P. Borgatti — social network analysis, University of Kentucky"
+  favicon: assets/favicon.svg
+  search: true
+  page-navigation: false
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Research
+        menu:
+          - href: research.qmd
+            text: Research interests
+          - href: publications.qmd
+            text: Publications
+          - href: cv.qmd
+            text: CV
+          - href: https://scholar.google.com/citations?user=hlk4a4gAAAAJ&hl=en
+            text: Google Scholar
+      - href: teaching.qmd
+        text: Teaching
+      - href: software.qmd
+        text: Software
+      - href: https://sites.google.com/site/analyzingsocialnetworks/home
+        text: Book
+      - href: tools.qmd
+        text: Tools
+    right:
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=hlk4a4gAAAAJ&hl=en
+        aria-label: Google Scholar
+      - icon: github
+        href: https://github.com/StephenBorgatti
+        aria-label: GitHub
+  page-footer:
+    left: "© Stephen P. Borgatti"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: [litera, assets/styles.scss]
+      dark: [darkly, assets/styles.scss, assets/dark.scss]
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: false

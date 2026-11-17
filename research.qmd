@@ -1,0 +1,20 @@
+---
+title: "Research"
+---
+
+<!-- DRAFT written from the old Research page and the CV — please edit. -->
+
+My research is on social networks, and in particular on **network theory**: explanations of outcomes in terms of the structure of relationships. A lot of network theory gets mistaken for methodology. Concepts like betweenness centrality or structural holes are theoretical claims about how position matters. I keep "methodology" for research design and statistical modeling, such as exponential random graph models.
+
+Recurring themes in my work:
+
+- **Centrality and network flow:** what centrality measures actually assume about how things move through a network.
+- **Positions and roles:** structural and regular equivalence, blockmodeling, and core/periphery structures.
+- **Two-mode and multimode networks.**
+- **Brokerage and social capital**, including Burt's constraint measure and its relatives.
+- **Networks in organizations:** knowledge sharing, network governance, and the ethics of organizational network research.
+- **Cultural domain analysis:** free lists, pile sorts, triads and consensus analysis.
+
+[All publications](publications.qmd){.btn .btn-outline-primary}
+[CV](cv.qmd){.btn .btn-outline-primary}
+[Google Scholar](https://scholar.google.com/citations?user=hlk4a4gAAAAJ&hl=en){.btn .btn-outline-primary}
